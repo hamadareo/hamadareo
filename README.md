@@ -9,8 +9,7 @@
   AI / IoT for human-robot coexistence
 - 音声対話システム・ロボットとの対話  
   Spoken dialogue systems and human-robot interaction
-- ブラウザで動く音とグラフィックス（Web Audio / Canvas）  
-  Audio and graphics on the web
+
 
 ### 活動 / Activities
 
