@@ -19,9 +19,9 @@
 
 ### 作ったもの / Projects
 
-| | |
-|---|---|
-| [**vfd-spectrum**](https://github.com/hamadareo/vfd-spectrum) | 90〜2000年代のカーオーディオ風、蛍光表示管（VFD）スペクトラムアナライザー。ブラウザ（Canvas + Web Audio）と Mac アプリで動作<br>A retro car-audio style VFD spectrum analyzer for the browser and macOS |
+- [**vfd-spectrum**](https://github.com/hamadareo/vfd-spectrum)  
+  90〜2000年代のカーオーディオ風、蛍光表示管（VFD）スペクトラムアナライザー。ブラウザ（Canvas + Web Audio）と Mac アプリで動作  
+  A retro car-audio style VFD spectrum analyzer for the browser and macOS
 
 ### 使っている技術 / Tech
 
