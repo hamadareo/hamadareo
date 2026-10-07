@@ -38,7 +38,10 @@
 
 ### 使っている技術 / Tech
 
-Python · JavaScript · HTML / CSS · Swift · Web Audio API · Canvas
+- **言語 / Languages**: Python · JavaScript · HTML / CSS · Swift · C++ (Arduino)
+- **AI・画像処理 / AI & Vision**: PyTorch · YOLO (Ultralytics) · OpenCV · ローカル LLM / Local LLM (LM Studio)
+- **Web・アプリ / Web & Apps**: Flask · PyQt6 · Playwright · Chrome 拡張 / Chrome Extensions · Web Audio API · Canvas
+- **ハードウェア / Hardware**: Raspberry Pi · Arduino · TWELITE · DJI Tello
 
 ### 連絡先 / Contact
 
