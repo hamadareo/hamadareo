@@ -23,6 +23,18 @@
 - [**vfd-spectrum**](https://github.com/hamadareo/vfd-spectrum)  
   90〜2000年代のカーオーディオ風、蛍光表示管（VFD）スペクトラムアナライザー。ブラウザ（Canvas + Web Audio）と Mac アプリで動作  
   A retro car-audio style VFD spectrum analyzer for the browser and macOS
+- [**license-plate-eraser**](https://github.com/hamadareo/license-plate-eraser)  
+  写真・動画のナンバープレートを AI（YOLO）で自動検出して、モザイク・白塗り・AI 修復で消すデスクトップアプリ  
+  A desktop app that detects license plates in photos and videos with YOLO and hides them with mosaic, fill, or AI inpainting
+- [**razipai-rc-car**](https://github.com/hamadareo/razipai-rc-car)  
+  ブラウザから操縦できる大型 RC カー。Raspberry Pi + Arduino + TWELITE で、カメラによるライントレースにも対応  
+  A browser-controlled RC car using Raspberry Pi, Arduino, and TWELITE, with camera-based line tracing
+- [**tello-line-tracer**](https://github.com/hamadareo/tello-line-tracer)  
+  DJI Tello のカメラで床のラインを追いかけて自動飛行。コース学習とブラウザのダッシュボードつき  
+  Autonomous line-following flight for the DJI Tello, with course learning and a web dashboard
+- [**AI-browser**](https://github.com/hamadareo/AI-browser)  
+  ローカル LLM（LM Studio）でブラウザを自動操作する AI エージェント。Python（Playwright）版と Chrome 拡張版  
+  A browser automation agent powered by a local LLM, available as a Python (Playwright) app and a Chrome extension
 
 ### 使っている技術 / Tech
 
