@@ -15,6 +15,8 @@
 
 - 対話システムライブコンペティション8（DSLC8）参加  
   Participated in Dialogue System Live Competition 8 (DSLC8)
+- ビジョン技術の実利用ワークショップ（ViEW）参加  
+  Participated in Vision Engineering Workshop (ViEW)
 
 ### 作ったもの / Projects
 
