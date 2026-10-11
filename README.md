@@ -20,6 +20,9 @@
 
 ### 作ったもの / Projects
 
+- [**codedeck**](https://github.com/hamadareo/codedeck)  
+  Claude Code の複数アカウント・複数セッションを1つの画面で管理するデスクトップアプリ（macOS / Windows）。Anthropic の公式製品ではない、個人開発の非公式ツール  
+  A desktop app for running Claude Code sessions across multiple accounts in one window (macOS / Windows). An unofficial tool, not affiliated with Anthropic
 - [**vfd-spectrum**](https://github.com/hamadareo/vfd-spectrum)  
   90〜2000年代のカーオーディオ風、蛍光表示管（VFD）スペクトラムアナライザー。ブラウザ（Canvas + Web Audio）と Mac アプリで動作  
   A retro car-audio style VFD spectrum analyzer for the browser and macOS
