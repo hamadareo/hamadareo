@@ -21,8 +21,8 @@
 ### 作ったもの / Projects
 
 - [**ai-page-translator**](https://github.com/hamadareo/ai-page-translator)  
-  Web ページ全体を生成 AI で日本語に翻訳する Chrome 拡張。OpenAI / Anthropic / Gemini とローカル LLM（LM Studio、自動起動つき）に対応し、レイアウトを崩さずに置き換える。リンク先や新しいタブも自動で翻訳  
-  A Chrome extension that translates whole web pages with generative AI (OpenAI / Anthropic / Gemini or a local LLM via LM Studio with auto-start), keeping the page layout and following links into new pages and tabs
+  Web ページ全体を生成 AI で日本語に翻訳する Chrome 拡張。OpenAI / Anthropic / Gemini とローカル LLM（LM Studio、自動起動つき）に対応し、レイアウトを崩さずに置き換える。クリックしたリンク先も自動で翻訳  
+  A Chrome extension that translates whole web pages with generative AI (OpenAI / Anthropic / Gemini or a local LLM via LM Studio with auto-start), keeping the page layout and following clicked links
 - [**codedeck**](https://github.com/hamadareo/codedeck)  
   Claude Code の複数アカウント・複数セッションを1つの画面で管理するデスクトップアプリ（macOS / Windows）。Anthropic の公式製品ではない、個人開発の非公式ツール  
   A desktop app for running Claude Code sessions across multiple accounts in one window (macOS / Windows). An unofficial tool, not affiliated with Anthropic
