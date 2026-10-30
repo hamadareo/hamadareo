@@ -21,8 +21,8 @@
 
 ### 活動 / Activities
 
-- 対話システムライブコンペティション8（DSLC8）に、チーム ShonanGreenApple の主たる開発エンジニアとして参加  
-  Participated in Dialogue System Live Competition 8 (DSLC8) as the lead development engineer for team ShonanGreenApple
+- 対話システムライブコンペティション8（DSLC8）に、チーム ShonanGreenApple の主たる開発エンジニアとして参加し、一次予選を突破  
+  Participated in Dialogue System Live Competition 8 (DSLC8) as the lead development engineer for team ShonanGreenApple, and passed the first preliminary round
 - ビジョン技術の実利用ワークショップ（ViEW2026）参加  
   Participated in Vision Engineering Workshop (ViEW2026)
 
