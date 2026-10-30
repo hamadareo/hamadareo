@@ -40,9 +40,9 @@ These repositories are private while the research and competitions are in progre
 - **ViEW — CG によるボウフラ検出用の合成データセット**  
   Blender で、ハマダラカの幼虫（ボウフラ）が入った水面の画像と正解枠を自動で作る（1,000 枚・10,000 匹）。YOLO と Google Cloud AutoML の形式で出力  
   Generating synthetic images of *Anopheles* larvae in water with Blender, with automatic bounding boxes (1,000 images, 10,000 larvae) in YOLO and Google Cloud AutoML formats
-- **PFB — ポジティブフィードバック**  
-  ポジティブフィードバック（PFB）に関する研究  
-  Research on positive feedback (PFB)
+- **ローカル VLM による協働インタラクション動画からのポジティブ・フィードバック（PFB）生成**（発表予定）  
+  グループワークの動画から、参加者一人ひとりの行動と貢献を読み取り、根拠つきのポジティブ・フィードバックを生成する。映像を外部のクラウドに送らず、研究室の GPU サーバーで動くローカル VLM（6 種類）で比較している  
+  Positive Feedback Generation from Collaborative Interaction Videos Using Local Vision-Language Models (to be presented): generating evidence-based positive feedback for each participant in group work, comparing six locally run VLMs so that no video leaves the lab
 
 ### 作ったもの / Projects
 
